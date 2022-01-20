@@ -1,0 +1,75 @@
+Welcome. Please type 1 to login. Or type 2 to register. 
+Or type q to quit: Please input email:Please input a username:Please input password:Please input the password again:Please input your first name:Please input your last name:Registration succeeded
+Welcome. Please type 1 to login. Or type 2 to register. 
+Or type q to quit: Please input email to login:Please input password:
+Welcome Areeya Te 
+
+Your current balance is 100.0 
+
+All your current products:
+
+No products to display.
+
+Type 1 to create a new product
+Type 2 to update an existing product
+Type 3 to update user profile
+Type 4 to see profile details
+Type q to sign out:Product Creation Page
+--------------------------------------------------
+Enter a product title:Enter a product description:Enter a product price:Product sucessfully created!
+Would you like to create another product?
+Type y for yes and q to quit the product creation page:
+Welcome Areeya Te 
+
+Your current balance is 100.0 
+
+All your current products:
+
+Title: Cool Mittens
+Description: These are cool mittens
+Price: 30.0
+Last modified Date: ${last_modified_date}
+
+
+Type 1 to create a new product
+Type 2 to update an existing product
+Type 3 to update user profile
+Type 4 to see profile details
+Type q to sign out:
+Welcome, to product update!
+
+Which product do you wish to update?
+
+1. Cool Mittens
+
+Please press some number to select a product or q to quit.
+
+Please type 1 to update title,
+Type 2 to update description,
+Type 3 to update price, 
+Type q to go back: Please input new description: Update description successful
+
+Please type 1 to update title,
+Type 2 to update description,
+Type 3 to update price, 
+Type q to go back: 
+Welcome Areeya Te 
+
+Your current balance is 100.0 
+
+All your current products:
+
+Title: Cool Mittens
+Description: These are the coolest mittens
+Price: 30.0
+Last modified Date: ${last_modified_date}
+
+
+Type 1 to create a new product
+Type 2 to update an existing product
+Type 3 to update user profile
+Type 4 to see profile details
+Type q to sign out:Thank you for visiting, signing out...
+
+Welcome. Please type 1 to login. Or type 2 to register. 
+Or type q to quit: 

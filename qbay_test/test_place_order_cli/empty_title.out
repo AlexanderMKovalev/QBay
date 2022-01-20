@@ -1,0 +1,109 @@
+Welcome. Please type 1 to login. Or type 2 to register. 
+Or type q to quit: Please input email:Please input a username:Please input password:Please input the password again:Please input your first name:Please input your last name:Registration succeeded
+Welcome. Please type 1 to login. Or type 2 to register. 
+Or type q to quit: Please input email to login:Please input password:
+Welcome Claire Frances 
+
+Your current balance is 100.0 
+
+All your current products:
+
+No products to display.
+
+Type 1 to create a new product
+Type 2 to update an existing product
+Type 3 to update user profile
+Type 4 to see profile details
+Type 5 to view the marketplace
+Type q to sign out:Product Creation Page
+--------------------------------------------------
+Enter a product title:Enter a product description:Enter a product price:Product sucessfully created!
+Would you like to create another product?
+Type y for yes and q to quit the product creation page:
+Welcome Claire Frances 
+
+Your current balance is 100.0 
+
+All your current products:
+
+Title: Hat
+Description: A warm knitted hat for winter
+Price: 15.0
+Last modified Date: ${last_modified_date}
+Sold: False
+
+
+Type 1 to create a new product
+Type 2 to update an existing product
+Type 3 to update user profile
+Type 4 to see profile details
+Type 5 to view the marketplace
+Type q to sign out:Thank you for visiting, signing out...
+
+Welcome. Please type 1 to login. Or type 2 to register. 
+Or type q to quit: Please input email:Please input a username:Please input password:Please input the password again:Please input your first name:Please input your last name:Registration succeeded
+Welcome. Please type 1 to login. Or type 2 to register. 
+Or type q to quit: Please input email to login:Please input password:
+Welcome NotClaire Frances 
+
+Your current balance is 100.0 
+
+All your current products:
+
+No products to display.
+
+Type 1 to create a new product
+Type 2 to update an existing product
+Type 3 to update user profile
+Type 4 to see profile details
+Type 5 to view the marketplace
+Type q to sign out:
+MARKETPLACE
+--------------------------------------------------
+Balance: 100.0 
+
+
+Title: Hat
+Description: A warm knitted hat for winter
+Price: 15.0
+Last modified Date: ${last_modified_date}
+Owner-email: 17cfor@queensu.ca
+
+
+Type the title of the product to buy it.
+Press q to quit:Cannot place order for a product
+                             which doesn't exist
+
+MARKETPLACE
+--------------------------------------------------
+Balance: 100.0 
+
+
+Title: Hat
+Description: A warm knitted hat for winter
+Price: 15.0
+Last modified Date: ${last_modified_date}
+Owner-email: 17cfor@queensu.ca
+
+
+Type the title of the product to buy it.
+Press q to quit:Cannot place order for a product
+                             which doesn't exist
+
+Welcome NotClaire Frances 
+
+Your current balance is 100.0 
+
+All your current products:
+
+No products to display.
+
+Type 1 to create a new product
+Type 2 to update an existing product
+Type 3 to update user profile
+Type 4 to see profile details
+Type 5 to view the marketplace
+Type q to sign out:Thank you for visiting, signing out...
+
+Welcome. Please type 1 to login. Or type 2 to register. 
+Or type q to quit: 
